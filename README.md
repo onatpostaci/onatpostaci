@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Ömer Onat Postacı</h1>
+<h1 align="center">Hi, I am Ömer Onat Postacı</h1>
 <h4 align="center">I am a dedicated software engineer thinking about using programming languages and analytic thinking to utilize the technology for working towards the mission of a company and developing effective solutions.</h4>
 
 <h3 align="left">Academic Background:</h3>
 <p align="left">
-<a href="https://www.ue-germany.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/f1/University_of_Europe_for_Applied_Sciences_logo.png" alt="ue" height="30" width="40" /></a> M.Sc Data Science
+<a href="https://www.ue-germany.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/f1/University_of_Europe_for_Applied_Sciences_logo.png" alt="ue" height="50" width="60" /></a> M.Sc Data Science
 </p>
 <p align="left">
-<a href="https://w3.bilkent.edu.tr/bilkent/" target="blank"><img align="center" src="https://w3.bilkent.edu.tr/logo/ing-amblem.png" alt="bilkent" height="30" width="40" /></a> B.Sc Computer Engineering
+<a href="https://w3.bilkent.edu.tr/bilkent/" target="blank"><img align="center" src="https://w3.bilkent.edu.tr/logo/ing-amblem.png" alt="bilkent" height="50" width="50" /></a> B.Sc Computer Engineering
 </p>
 
 
