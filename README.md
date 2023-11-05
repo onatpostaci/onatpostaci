@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Ömer Onat Postacı</h1>
+<h1 align="center" color="#fff">Hi, I am Ömer Onat Postacı</h1>
 <h4 align="center">I am a dedicated software engineer thinking about using programming languages and analytic thinking to utilize the technology for working towards the mission of a company and developing effective solutions.</h4>
 
 <br/>
