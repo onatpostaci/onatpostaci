@@ -3,7 +3,7 @@
 
 <h3 align="left">Academic Background:</h3>
 <p align="left">
-<a href="https://www.ue-germany.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/f1/University_of_Europe_for_Applied_Sciences_logo.png" alt="ue" height="50" width="60" /></a> M.Sc Data Science
+<a href="https://www.ue-germany.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/f1/University_of_Europe_for_Applied_Sciences_logo.png" alt="ue" height="50" width="80" /></a> M.Sc Data Science
 </p>
 <p align="left">
 <a href="https://w3.bilkent.edu.tr/bilkent/" target="blank"><img align="center" src="https://w3.bilkent.edu.tr/logo/ing-amblem.png" alt="bilkent" height="50" width="50" /></a> B.Sc Computer Engineering
